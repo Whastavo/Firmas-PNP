@@ -1,0 +1,6 @@
+{
+  "name": "FirmaTransfer",
+  "description": "Transfiere, edita y ajusta firmas digitales y sellos entre documentos PDF con control de fecha y tamaño milimétrico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
